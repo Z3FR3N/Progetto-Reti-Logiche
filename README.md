@@ -1,4 +1,4 @@
-# Progetto_Reti_Logiche
+# Progetto Reti Logiche
 Creazione di una rete combinatoria tramite porte in logica NAND, per la simulazione è usato il software TkGate.
 
 È presente una relazione con la spiegazione dettagliata dei componenti realizzati e di tutti i dettagli implementativi, il file sorgente ed un file in formato PostScript per facilitare la visione. Nel sorgente troviamo implementati:
