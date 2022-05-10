@@ -6,5 +6,4 @@ Creazione di una rete combinatoria tramite porte in logica NAND, per la simulazi
 - 1 Ripple Carry Adder a 16 bit
 - 1 divisore a 16 bit
 
-La rete combinatoria li usa in cascata come proof of concept, i moduli risultano riutilizzabili anche per altri scopi.
-
+La rete combinatoria li usa in cascata come proof of concept, i moduli risultano riutilizzabili in configurazioni differenti.
